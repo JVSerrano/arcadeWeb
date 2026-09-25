@@ -28,3 +28,6 @@ No test runner is configured yet.
 ## Critical: this is not the Next.js you know
 
 Per `AGENTS.md`, this Next.js version has breaking changes versus training data — APIs, conventions, and file structure may differ. Before writing any Next.js code, read the relevant guide under `node_modules/next/dist/docs/` (sections: `01-app`, `02-pages`, `03-architecture`, `04-community`) and heed deprecation notices.
+
+## Skills
+Usa siempre skill /frontend-desing cuando necesites hacer interfaces de usuarios
